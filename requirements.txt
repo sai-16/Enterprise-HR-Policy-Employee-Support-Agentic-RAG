@@ -6,6 +6,7 @@ pydantic-settings==2.10.1
 
 langgraph==1.1.10
 langchain-core==1.6.1
+langchain_groq
 langchain-community==0.4.2
 langchain-openai==1.6.0
 langchain-tavily==0.2.18
@@ -18,3 +19,6 @@ openai==3.3.1
 pypdf==6.16.2
 python-docx==1.2.0
 python-dotenv==1.1.1
+
+langchain_huggingface
+sentence-transformers
